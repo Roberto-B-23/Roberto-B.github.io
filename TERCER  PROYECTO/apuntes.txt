@@ -1,0 +1,84 @@
+aprender mas q todo alas aser selectores 
+
+/*selector de etiquetas header - section - nav */
+/* slector descendentes */=este es como el padre de las etiquetas de abajo
+/*body header div nav li a */
+
+/*reglas
+selectores
+declaraciones
+propiedades
+valores*/
+
+
+/*selector de etiquetas header - section - nav */
+ header {
+    background: pink;
+    color: red;
+} 
+
+/* slector descendentes */
+/*body header div nav li a */
+
+/*slector de clase . */
+
+/* . link */
+
+/*selector de id # */
+/* #portafolio*/
+
+
+
+
+
+unidades de medidas DE COLORES
+#FFFFFF=BLANCO
+#000000=NEGRO
+#FF0000=ROJO
+#00FF00=VERDE
+#0000FF=AZUL
+
+INPECTOR DE ELEMENTOS 
+es la consola de la web donde se puede editar 
+y otras cosas para ver como queda eh pasarlo pa la paguina
+
+TIPOS DE TEXTOS 
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}=ES para todas las letras en general
+
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}= es basicamente para en que estas nombrando (h1)
+
+
+*body {
+    font-family: "source sans pro", sans-serif; = esto es para  todos los titulos 
+}
+h1,
+h2,
+h3,                      =esto es para q todas las (h)automaticamente se agan los subtitulos
+h4,
+h5,
+h6{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: "Fjalla One", sans-serif ;
+    font-weight: normal;
+    /*font-style: italic;*/
+}
+
+h1 {
+    font-size: 40px;
+ line-height: 1.5em;
+letter-spacing: -.2px;
+/*text-transform: uppercase;*/
+/*text-decoration: underline;*/    = tod0 es to es para los diseños de los subtitulos como lo
+ queremos alto ancho chico grande mayus o no mayusc.
+}
+
+
