@@ -1,1 +1,0 @@
- declarar();console.log(variable);
